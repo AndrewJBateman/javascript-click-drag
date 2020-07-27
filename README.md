@@ -1,11 +1,10 @@
-# Javascript Click Drag
+# :zap: Javascript Click Drag
 
-Wes Bos Youtube Tutorial: [JavaScript Interface Challenge: Click and Drag to Scroll - #JavaScript30 27/30](https://www.youtube.com/watch?v=C9EWifQ5xqA&index=27&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH).
-
+* Wes Bos Youtube Tutorial: [JavaScript Interface Challenge: Click and Drag to Scroll - #JavaScript30 27/30](https://www.youtube.com/watch?v=C9EWifQ5xqA&index=27&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH).
 
 *** Note: to open web links in a new window use: _ctrl+click on link_**
 
-## Table of contents
+## :page_facing_up: Table of contents
 
 * [General info](#general-info)
 * [Screenshots](#screenshots)
@@ -16,23 +15,23 @@ Wes Bos Youtube Tutorial: [JavaScript Interface Challenge: Click and Drag to Scr
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
-## General info
+## :books: General info
 
 * Tutorial Code to scroll horizontally using click and drag.
 
-## Screenshots
+## :camera: Screenshots
 
 ![Example screenshot](./img/drag.png).
 
-## Technologies
+## :signal_strength: Technologies
 
 * [Javascript v1.9 ECMA-262 ECMAScript 2018](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
 
-## Setup
+## :floppy_disk: Setup
 
 * Open index.html in browser. If any code is changed the browser needs to be refreshed.
 
-## Code Examples
+## :computer: Code Examples
 
 * calculate slider scroll left value from cursor position and 
 
@@ -49,20 +48,18 @@ slider.addEventListener('mousemove', (e) => {
 });
 ```
 
-## Features
+## :cool: Features
 
 *  scroll speed can be changed.
 
-## Status & To-Do List
+## :clipboard: Status & To-Do List
 
-* Status: Working.
-
+* Status: Working
 * To-Do: Nothing
 
-## Inspiration
+## :clap: Inspiration
 
 * Wes Bos Youtube Tutorial: [JavaScript Interface Challenge: Click and Drag to Scroll - #JavaScript30 27/30](https://www.youtube.com/watch?v=C9EWifQ5xqA&index=27&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH).
+## :envelope: Contact
 
-## Contact
-
-Repo created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
+* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
